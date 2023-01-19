@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-routing-01/static/css/main.d5f070ea.css",
+    "main.js": "/react-routing-01/static/js/main.088a8ed9.js",
+    "static/js/787.9c5aeae8.chunk.js": "/react-routing-01/static/js/787.9c5aeae8.chunk.js",
+    "static/media/Products.jpg": "/react-routing-01/static/media/Products.8c73f18ba9603bd9213c.jpg",
+    "static/media/Services.jpg": "/react-routing-01/static/media/Services.aaf4eac9027b4f6b7892.jpg",
+    "static/media/Aboutus.jpg": "/react-routing-01/static/media/Aboutus.9c7153aec94ffa68ab8b.jpg",
+    "static/media/backdrop.jpg": "/react-routing-01/static/media/backdrop.2ea914259f43a7c3fcff.jpg",
+    "static/media/Contactus.jpg": "/react-routing-01/static/media/Contactus.13b798d6ec4d62e3e4d2.jpg",
+    "static/media/Logo.png": "/react-routing-01/static/media/Logo.29e0225cc710cde10bad.png",
+    "index.html": "/react-routing-01/index.html",
+    "main.d5f070ea.css.map": "/react-routing-01/static/css/main.d5f070ea.css.map",
+    "main.088a8ed9.js.map": "/react-routing-01/static/js/main.088a8ed9.js.map",
+    "787.9c5aeae8.chunk.js.map": "/react-routing-01/static/js/787.9c5aeae8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5f070ea.css",
+    "static/js/main.088a8ed9.js"
+  ]
+}
